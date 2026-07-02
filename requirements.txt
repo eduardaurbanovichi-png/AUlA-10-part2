@@ -1,0 +1,8 @@
+streamlit>=1.40.0
+opencv-python-headless>=4.10.0.84
+numpy>=2.1.0
+SQLAlchemy>=2.0.30
+psycopg[binary,pool]>=3.2.2
+faster-whisper>=1.0.2
+pandas>=2.2.3
+alembic>=1.13.1
